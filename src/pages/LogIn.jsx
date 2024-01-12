@@ -42,7 +42,7 @@ const LogIn = ({ onClose }) => {
                 </div>
                 <div class="input-box">
                     <input type="password" value={password} onChange={handlePasswordChange} required />
-                    <label>Password</label>
+                    <label>Password extended</label>
                 </div>
                 <div class="remember-forgot">
                     <label><input type="checkbox" checked={agreeTerms} onChange={handleCheckboxChange} />Remember me</label>
