@@ -1,0 +1,31 @@
+.read-more-button {
+    display: inline-block;
+    cursor: pointer;
+    /* font-family: var(--font-family); */
+    color: rgb(2, 2, 91);
+    text-decoration: underline;
+    transition: color 0.3s ease; 
+  
+    }
+
+    .duca4__features-container_feature-text {
+        flex: 2;
+        max-width: 390px;
+        display: flex;
+        color: blue;
+
+    }
+
+
+    .read-more-butto:hover {
+        color: #0056b3; 
+  }
+
+  
+
+  
+  
+  
+  
+  
+  
